@@ -222,3 +222,4 @@ And with your Android device connected
 [10]: http://www.mobiledevstories.com
 [11]: https://github.com/chrisbanes/PhotoView
 [12]: https://github.com/voghDev/HelloKotlin/blob/pdfviewpager/app/src/main/java/es/voghdev/hellokotlin/PdfViewPagerActivity.kt
+
